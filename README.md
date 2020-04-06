@@ -7,7 +7,7 @@
 # Joylan Maciel
 <sub>*Professor* de Computação na Universidade Federal da Integração Latino Americana (UNILA</sub>
 
-Este repositório contem notebooks de exemplos de programação na linguagem Python.
+Este repositório contem notebooks de exemplos de manipulação genérica de dados na linguagem Python.
 
 **Links relevantes:**
 * [Site Pessoal](http://sites.google.com/site/joylan)
